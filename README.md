@@ -1,15 +1,13 @@
-# Insight-challenge
-
-My solution to the Coding challenge is in: Codes
+#My solution to the Coding challenge is in: Codes
 Inside you could find:
-wc_input    #I have input 3 text files for testng
+wc_input    I have input 3 text files for testng
 wc_output
-count.py    #This code is for counting words
-median.py   #This code is for getting the medians
+count.py    This code is for counting words
+median.py   This code is for getting the medians
 run.sh
-#There are other text files producing during the code running 
+There are other text files producing during the code running 
 
-The Maze project has 3 main files:
+#The Maze project has 3 main files:
 main.cpp
 Maze.cpp
 Maze.h
