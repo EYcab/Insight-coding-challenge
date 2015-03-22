@@ -6,7 +6,7 @@ Inside you could find:
 * "median.py"   -This code is for getting the medians
 * "run.sh"      -The bash script
 * other text files producing during the code running 
-
+To run it, you could just type ./run.sh in Gygwin
 #The Maze project has 3 main files:
 * "main.cpp"
 * "Maze.cpp"
