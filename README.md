@@ -12,4 +12,4 @@ Inside you could find:
 * "Maze.cpp"
 * "Maze.h"
 * the other 3 input .txt files
-In this project,I have explored both breadth first search and depth first search via stack and queue.It was not the most difficult one but it always reminds me of coding things effectively.
+In this project,I have explored both breadth first search and depth first search via stack and queue.It is not the most difficult one but it is an inspiring one.
